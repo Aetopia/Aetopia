@@ -1,6 +1,7 @@
 # About Me
-# Favorite Anime + Manga
-Miss Kobayashi's Dragon Maid
+# Favorite Animes + Mangas
+Miss Kobayashi's Dragon Maid   
+Little Battlers Experience
 # Favourite Game
 Minecraft | IGN: Puurt
 # GitHub Stats
