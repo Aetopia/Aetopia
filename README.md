@@ -1,7 +1,7 @@
 # About Me
-## Favorite Anime
+# Favorite Anime
 Miss Kobayashi's Dragon Maid
-## Favourite Game
+# Favourite Game
 Minecraft
-## GitHub Stats
+# GitHub Stats
 ![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
