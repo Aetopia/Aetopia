@@ -1,5 +1,5 @@
 # About Me
-# Favorite Anime
+# Favorite Anime + Manga
 Miss Kobayashi's Dragon Maid
 # Favourite Game
 Minecraft
