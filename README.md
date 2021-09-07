@@ -4,7 +4,7 @@
 1. Miss Kobayashi's Dragon Maid   
 2. Little Battlers Experience
 
-# Watched Animes + Read Mangas
+# Watched Animes
 
 Miss Kobayashi's Dragon Maid     
 Little Battlers Experience   
