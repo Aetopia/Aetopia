@@ -6,10 +6,10 @@
 
 # Watched Anime
 
-Miss Kobayashi's Dragon Maid     
-Little Battlers Experience   
-Erased   
-One Punch Man   
+- Miss Kobayashi's Dragon Maid     
+- Little Battlers Experience   
+- Erased   
+- One Punch Man   
 
 # Favourite Game
 Minecraft | IGN: Puurt
