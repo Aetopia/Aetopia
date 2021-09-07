@@ -9,7 +9,8 @@
 - Miss Kobayashi's Dragon Maid     
 - Little Battlers Experience   
 - Erased   
-- One Punch Man   
+- One Punch Man  
+- Tokyo Revengers 
 
 # Favourite Game
 Minecraft | IGN: Puurt
