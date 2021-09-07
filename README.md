@@ -1,8 +1,8 @@
 # About Me
 # Favourite Animes + Mangas
 
-Miss Kobayashi's Dragon Maid   
-Little Battlers Experience
+1. Miss Kobayashi's Dragon Maid   
+2. Little Battlers Experience
 
 # Watched Animes + Read Mangas
 
