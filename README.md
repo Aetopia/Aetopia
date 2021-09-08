@@ -11,6 +11,7 @@
 - Erased   
 - One Punch Man  
 - Tokyo Revengers 
+- Hataraku Maou-sama!
 
 # Favourite Game
 Minecraft | IGN: Puurt | Xbox Gamertag: Aetopia
