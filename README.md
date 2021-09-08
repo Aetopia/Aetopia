@@ -13,6 +13,6 @@
 - Tokyo Revengers 
 
 # Favourite Game
-Minecraft | IGN: Puurt
+Minecraft | IGN: Puurt | Xbox Gamertag: Aetopia
 # GitHub Stats
 ![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
