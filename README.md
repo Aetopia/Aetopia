@@ -1,8 +1,8 @@
 # About Me
 # Favourite Anime
 
-1. Miss Kobayashi's Dragon Maid   
-2. Little Battlers Experience
+1. Little Battlers Experience
+2. Miss Kobayashi's Dragon Maid   
 
 # Watched Anime
 
