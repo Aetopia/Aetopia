@@ -1,4 +1,5 @@
 # About Me
+<b>Hi!</b>
 # Favourite Anime
 
 - Miss Kobayashi's Dragon Maid   
