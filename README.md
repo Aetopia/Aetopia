@@ -7,7 +7,7 @@
 
 - Miss Kobayashi's Dragon Maid     
 - Little Battlers Experience 
-- 
+
 # Watched Anime
 
 - Miss Kobayashi's Dragon Maid     
