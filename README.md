@@ -1,5 +1,7 @@
 # About Me
-<b>Hi!</b>
+<b>Hi!</b>  
+
+![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
 # Favourite Anime
 
 - Miss Kobayashi's Dragon Maid   
@@ -16,5 +18,4 @@
 
 # Favourite Game
 Minecraft | IGN: Puurt | Xbox Gamertag: Aetopia
-# GitHub Stats
-![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
+
