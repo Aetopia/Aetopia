@@ -1,5 +1,5 @@
 # About Me
-<b>Hi! I am someone that is obsessed with Computers, Minecraft and Nintendo.</b>  
+<b>Hi! I am someone that is obsessed with Computers, Minecraft, Nintendo and Dragon Maid.</b>  
 
 ![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
 
