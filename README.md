@@ -3,5 +3,4 @@
 
 ![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
 
-# Favourite Game
 Minecraft | IGN: Puurt | Xbox Gamertag: Aetopia
