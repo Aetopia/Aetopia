@@ -1,5 +1,8 @@
 # About Me
-<b>Hi! I am someone that is obsessed with Minecraft, Miss Kobayashi's Dragon Maid, Computers and Nintendo.</b>  
+<b>🔥 He/Him, 16    
+💻 Tech and Nintendo Enthusiast     
+🐉 Obsessed with Dragon Maid    
+🟣 http://discord.gg/CTT</b>  
 
 ![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
 
