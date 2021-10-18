@@ -1,9 +1,9 @@
 # About Me
-🔥  He/Him, 16
+<b>🔥  He/Him, 16
 
-🐉  Dragon Maid Nerd
+🐉  Dragon Maid Nerd       
 
-💻  Tech and Nintendo Enthusiast  
+💻  Tech and Nintendo Enthusiast </b> 
 
 ![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
 
