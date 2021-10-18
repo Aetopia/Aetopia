@@ -1,5 +1,5 @@
 # About Me
-<b>🔥 He/Him, 16    
+<b>🔥 He/Him      
 💻 Tech and Nintendo Enthusiast     
 🐉 Obsessed with Dragon Maid    
 🟣 https://discord.com/invite/CTT</b>  
