@@ -1,5 +1,5 @@
 # About Me
-<b>🔥  He/Him, 16
+<b>🔥  He/Him
 
 🐉  Dragon Maid Nerd       
 
