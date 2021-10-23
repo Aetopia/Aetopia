@@ -1,4 +1,3 @@
-# About Me
-![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
+<b> Minecraft | IGN: Aetopia | Xbox Gamertag: Aetopia </b>     
 
-Minecraft | IGN: Aetopia | Xbox Gamertag: Aetopia
+![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
