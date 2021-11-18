@@ -1,6 +1,6 @@
 # About Me
-**He/Him. 
-16 Years Old.            
+**He/Him.           
+16 Years Old.                
 Loves Tohru & Miss Kobayashi's Dragon Maid!     
 Uses Python, PowerShell & AHK!**     
 
