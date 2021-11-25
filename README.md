@@ -4,5 +4,3 @@
 Loves Tohru & Miss Kobayashi's Dragon Maid!                      
 Uses Python, PowerShell & AHK!           
 Answers to Aetopia or Topito!**
-
-![Aetopia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetopia)
