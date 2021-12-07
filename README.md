@@ -1,6 +1,6 @@
 # About Me
 **He/Him.              
 16 Years Old.                 
-Loves Tohru & Miss Kobayashi's Dragon Maid!                      
+Tohru is my Waifu.                     
 Uses Python, PowerShell & AHK!           
 Answers to Aetopia or Topito!**
