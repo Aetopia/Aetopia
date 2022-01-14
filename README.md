@@ -1,5 +1,5 @@
 # About Me
 ### 👦 **He/Him, 16 Years Old.**
-### 🔥  **I like Halo, Minecraft and Anime!** 
+### 🔥  **I like Halo, Minecraft and Nintendo!** 
 ### 🖥️ **Uses Python, PowerShell, AHK!**
 ### 🔴 **Answers to Aetopia or Topito!**        
