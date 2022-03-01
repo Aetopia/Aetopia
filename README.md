@@ -1,6 +1,6 @@
 # About Me
 #### 👦 **`He/Him, 16 Years Old.`**
-#### 🟠 **`I like Halo, Minecraft and Nintendo.`**
+#### 🟠 **`I like Minecraft and Nintendo.`**
 #### 🐍 **`Python User!`**
 #### 🖥️ **`i7-10700K | GTX 1650 | 16 GB`**
 #### ➥  **https://discord.gg/CTT** 
