@@ -1,4 +1,4 @@
-Welcome to my Profile.       
+I do stuff.     
 
 ➥  **https://discord.gg/CTT** 
 
