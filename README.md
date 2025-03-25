@@ -1,3 +1,1 @@
-<h3 align="center">🗿</h1>
-<h4 align="center">I do stuff.</h4>    
-<h5 align="center">➥ <b>https://discord.gg/CTT</b></h5> 
+<div align="center"><img src=https://github.com/user-attachments/assets/566f5411-84d1-4fae-b19e-9a9a54800297/></div>
