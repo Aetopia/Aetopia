@@ -1,1 +1,1 @@
-<div align="center"><h1>nocturnal source code generator</h1></div>
+<div align="center"><h1>24/7 Source Code Generator</h1></div>
