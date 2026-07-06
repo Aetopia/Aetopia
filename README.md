@@ -1,1 +1,1 @@
-<div align="center"><b>Nocturnal Source Code Generator</b></div>
+<div align="center"><b>I make random stuff.</b></div>
