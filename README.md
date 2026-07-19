@@ -1,1 +1,1 @@
-<div align="center"><b>I make random stuff.</b></div>
+<div align="center">I make random stuff.</div>
